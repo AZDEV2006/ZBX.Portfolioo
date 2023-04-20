@@ -3,7 +3,7 @@ import React from 'react'
 function Me() {
   return (
     <>
-        <div className="Section_start">
+        <div className="Section_start" data-aos="fade-left">
             <h1 className="Title_section">
                 แนะนำตัว
             </h1>

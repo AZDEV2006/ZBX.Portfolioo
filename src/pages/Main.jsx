@@ -52,10 +52,10 @@ const Main = () => {
         <>
             {
                 ((app.Data.Mydata.length === 0) ? <Loading /> : <>
-                    <section id="firstsection">
+                    <section id="firstsection" data-aos="fade-right">
                         <Parallax bgImage={'https://i.redd.it/qmm6mqqdw3k41.jpg'} strength={250}>
                             <div className="HeaderSection">
-                                <div className="Text">
+                                <div className="Text" data-aos="fade-left">
                                     <TypeAnimation
                                         sequence={[
                                             "สวัสดีครับ!",
@@ -87,7 +87,7 @@ const Main = () => {
                                     </div>
 
                                 </div>
-                                <div className="Img">
+                                <div className="Img" data-aos="fade-right">
                                     <div className=" ImgTag" style={{backgroundImage: `url(${app.Data.Mydata.data[Currentimg].url})`}}></div>
                                 </div>
                             </div>

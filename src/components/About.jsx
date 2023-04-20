@@ -37,7 +37,7 @@ function About() {
     }
   return (
     <section id="About" className={'Section_start'}>
-        <h1 className="Title_section">
+        <h1 className="Title_section" data-aos="fade-down">
             ผลงานของผม - My Portfolio
         </h1>
         <div className="line"></div>
@@ -46,7 +46,7 @@ function About() {
                 ((app.Data.Myportfolio != 0) ? app.Data.Myportfolio.data.map((_data, i) => {
                     return (
                         <>
-                        <div className="Item-Child" onClick={() => handleEDetail(_data._id)}>
+                        <div className="Item-Child" data-aos="fade-left" onClick={() => handleEDetail(_data._id)}>
                             <div className="Img">
                                 <i class="fa-solid fa-computer-mouse-scrollwheel"></i>
                                 <img draggable={false} src={_data.Img} alt="" />
