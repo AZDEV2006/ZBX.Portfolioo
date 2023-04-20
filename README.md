@@ -1,6 +1,6 @@
 # ZBX.Portfolio
 Deploy แล้ว : https://zbxitcamp18project.vercel.app/
-
+ถูกพัฒนาด้วย Next.js Mongodb .....
 
  สวัสดีคร้าบ ตอนนี้พี่ๆมาถูกทางละครับ มา!วันนี้ผมจะมาสอนติดตั้ง Project ของผมกัน
 ขั้นตอน 1. ก่อนอื่นพี่ต้องมี Node.js ก่อนน้า โหลดได้ที่ https://nodejs.org/en ตามนี้ครับ
