@@ -2,9 +2,11 @@
 Deploy แล้ว : https://zbxitcamp18project.vercel.app/
 ถูกพัฒนาด้วย Next.js Mongodb .....
 
+สามารถโหลดได้ที่ : https://github.com/AZDEV2006/ZBX.Portfolioo
+
  สวัสดีคร้าบ ตอนนี้พี่ๆมาถูกทางละครับ มา!วันนี้ผมจะมาสอนติดตั้ง Project ของผมกัน
 ขั้นตอน 1. ก่อนอื่นพี่ต้องมี Node.js ก่อนน้า โหลดได้ที่ https://nodejs.org/en ตามนี้ครับ
-ขั้นตอน 2. พี่ๆ Clone Project ผมลงมาที่เครื่อง
+ขั้นตอน 2. พี่ๆ Clone Project ผมลงมาที่เครื่อง https://github.com/AZDEV2006/ZBX.Portfolioo
 ขั้นตอน 3. เข้าไปยัง Directory ZBX.Portfolio เพื่อทำขั้นตอนต่อไป
 ขั้นตอน 4. ให้ที่ เปิด cmd ขั้นมาแล้ว cd ที่ Project ผม
 **หากกรณีใช้ yarn ให้ติดตั้ง yarn ก่อนนะจ๊ะ npm install --global yarn
