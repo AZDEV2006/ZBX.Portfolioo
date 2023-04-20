@@ -46,7 +46,7 @@ function About() {
                 ((app.Data.Myportfolio != 0) ? app.Data.Myportfolio.data.map((_data, i) => {
                     return (
                         <>
-                        <div className="Item-Child" data-aos="fade-left" onClick={() => handleEDetail(_data._id)}>
+                        <div className="Item-Child" data-aos="fade-right" onClick={() => handleEDetail(_data._id)}>
                             <div className="Img">
                                 <i class="fa-solid fa-computer-mouse-scrollwheel"></i>
                                 <img draggable={false} src={_data.Img} alt="" />
