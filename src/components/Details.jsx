@@ -18,7 +18,7 @@ function Details() {
         }));
     }
     
-    console.log(app.Data.FilterDetails)
+    // console.log(app.Data.FilterDetails)
     return (
     <>
         {
