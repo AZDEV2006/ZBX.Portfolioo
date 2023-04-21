@@ -1,5 +1,5 @@
 # ZBX.Portfolio
-Deploy แล้ว : https://zbxitcamp18project.vercel.app/
+Deploy แล้ว : https://zbxitcamp18project.vercel.app/ หากเว็ปไม่โหลดลอง F5 1 ครั้งครับ (ใช้ vercel ครับ อาจะไม่โหลดนิดนึง แต่ใช้งานได้ปกติครับหลังจากโหลดแล้ว)
 ถูกพัฒนาด้วย Next.js Mongodb .....
 
 สามารถโหลดได้ที่ : https://github.com/AZDEV2006/ZBX.Portfolioo
